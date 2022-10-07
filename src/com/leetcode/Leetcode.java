@@ -1,6 +1,6 @@
 package com.leetcode;
 
-public class Main {
+public class Leetcode {
 
 	public static void main(String[] args) {
 

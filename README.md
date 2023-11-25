@@ -1,7 +1,5 @@
 # Leetcode
 
-Some leetcode problems that I have solved:
-
 #### Linked List
 
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)

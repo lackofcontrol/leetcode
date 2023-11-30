@@ -1,0 +1,11 @@
+# Some topics to read about
+- Hashing
+- Two pointers
+- Sliding window
+- Priority queue
+- Backtracking
+- 1D dynamic programming
+- 2D dynamic programming
+- Intervals
+- Advanced graphs
+- Bit manipulation

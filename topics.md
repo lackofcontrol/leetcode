@@ -1,4 +1,4 @@
-# Some topics to read about
+# Some topics
 - Hashing
 - Two pointers
 - Sliding window
